@@ -1,0 +1,8 @@
+#row	col	value
+r1	c1	v11
+r1	c2	v12
+r1	c3	v13
+r2	c1	v21
+r2	c3	v23
+r3	c1	v31
+r4	c2	v42
